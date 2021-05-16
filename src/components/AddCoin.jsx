@@ -16,6 +16,11 @@ const AddCoin = () => {
     "tezos",
     "cardano",
     "chainlink",
+    "uniswap",
+    "stellar",
+    "solana",
+    "polygon",
+    "binance-coin",
   ];
 
   const handleClick = (coin) => {
