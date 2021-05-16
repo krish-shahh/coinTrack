@@ -15,6 +15,7 @@ const AddCoin = () => {
     "okb",
     "tezos",
     "cardano",
+    "binance-coin",
   ];
 
   const handleClick = (coin) => {
